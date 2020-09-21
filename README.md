@@ -1,4 +1,4 @@
-# CopyFromUSB-on-OSX
+# USBcopy
 
 ## Method
 
